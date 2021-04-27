@@ -1,0 +1,71 @@
+body{
+
+  background-color: #aba6a7;
+  margin-top: 33px;
+  border-style: inset;
+  border-color: #191c1c;
+  text-align: center;
+}
+
+h2{
+  border-bottom: 2px solid ;
+
+
+}
+
+img{
+
+  width: 30%;
+  border: 5px  outset   rgb(32, 33, 33);
+  box-shadow: 50px;
+  border: 2px solid black;
+  border-radius: 12px;
+  opacity: 10.0;
+}
+
+.Sush{
+
+  word-spacing: 5px;
+
+  margin-left: 20px;
+
+  padding-bottom: 7px;
+  margin-bottom: 20px;
+
+font-family: sans-serif;
+width: 95%;
+
+
+
+}
+
+h1{
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-family: monospace;
+  color: black;
+}
+
+.Space{
+  box-sizing: border-box;
+}
+
+.Actor{
+
+background-color: #12b5a2;
+width: 95vw;
+margin-left: 10px;
+font-size: 2em;
+font-style: italic;
+border: 2px solid black;
+  border-radius: 300px;
+  outline-offset: 30px;
+  
+
+}
+
+.Wiki{
+
+  color: blue;
+
+}
